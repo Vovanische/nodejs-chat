@@ -1,4 +1,4 @@
-export class UpdateUserDto {
+export class PublicUserDto {
   name: string;
   email: string;
 }
